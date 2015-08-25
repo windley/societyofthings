@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Society Of Things
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: phil@windley.org
+description: "Things working together for you"
+baseurl: ""
+url: "http://societyofthings.org"
+twitter_username: windley
+github_username:  windley
+facebook_username:  windley
 
 # Build settings
 markdown: kramdown

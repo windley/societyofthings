@@ -11,9 +11,11 @@ description: "Social Things Working for You"
 
 3. __No User-Serviceable Parts Inside__ &mdash;
 
-- Picos and Wrangler create a model that combines the best of cloud and local compute. 
+- Picos and Wrangler create a model that combines the best of cloud and local compute.
+- the cloud isn't the PC 
 
 ## Design Principles
+
 
 4. __How the Internet Won__ &mdash; 
 
@@ -25,35 +27,35 @@ description: "Social Things Working for You"
 - reactive
 - asynchronous boundaries
 
-__Identity and Directories__ &mdash;
+6. __Identity and Directories__ &mdash;
 
-__Reputation and Trust__ &mdash;
+7. __Reputation and Trust__ &mdash;
 
-__Emergent Behavior__&mdash;
+8. __Emergent Behavior__&mdash;
 
 ## Social Things
 
-__Mirror Worlds__ &mdash;
+9. __Mirror Worlds__ &mdash;
 
 - models
 - potholes
 
-__Spimes__&mdash;
+10. __Spimes__&mdash;
  
-__Trustworthy Spaces__ &mdash;
+11. __Trustworthy Spaces__ &mdash;
 
-__Civilizing the Internet of Things__ &mdash;
+12. __Civilizing the Internet of Things__ &mdash;
 
 - social things
 - culture
 
 ## The Pico Model
 
-__Reactive Programming for the Internet of Things__ &mdash;
+13. __Reactive Programming for the Internet of Things__ &mdash;
 
-__Case Study 1: Fuse and Connected Cars__&mdash;
+14. __Case Study 1: Fuse and Connected Cars__&mdash;
 
-__Case Study 2: SquareTag__&mdash;
+15. __Case Study 2: SquareTag__&mdash;
 
 
 

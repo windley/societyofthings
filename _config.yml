@@ -1,5 +1,5 @@
 # Site settings
-title: Society of Things
+title: A Society of Things
 header-img: img/home-bg.jpg
 email: phil@windley.org
 description: "Social Things Working for You"
@@ -12,6 +12,6 @@ facebook_username:  windley
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
-paginate: 20
+permalink: none
+# paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

@@ -41,6 +41,8 @@ description: "Social Things Working for You"
 	- potholes
 
 10. __Spimes__&mdash;
+
+	- Spimes are Internet meta-data objects. Native to the #IoT says @bruces 
  
 11. __Trustworthy Spaces__ &mdash;
 

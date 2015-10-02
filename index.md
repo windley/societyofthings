@@ -11,8 +11,8 @@ description: "Social Things Working for You"
 
 3. __No User-Serviceable Parts Inside__ &mdash;
 
-- Picos and Wrangler create a model that combines the best of cloud and local compute.
-- the cloud isn't the PC 
+	- Picos and Wrangler create a model that combines the best of cloud and local compute.
+	- the cloud isn't the PC 
 
 ## Design Principles
 
@@ -21,11 +21,11 @@ description: "Social Things Working for You"
 
 5. __Sovereign Agents__ &mdash;
 
-- identity &mdash; why aren't you the source of your own identity? Why are all your identifiers given to you by others? This is the fundamental roadblock to true independence online.
-- relationships
-- sovereign boundaries
-- reactive
-- asynchronous boundaries
+	- identity &mdash; why aren't you the source of your own identity? Why are all your identifiers given to you by others? This is the fundamental roadblock to true independence online.
+	- relationships
+	- sovereign boundaries
+	- reactive
+	- asynchronous boundaries
 
 6. __Identity and Directories__ &mdash;
 
@@ -37,8 +37,8 @@ description: "Social Things Working for You"
 
 9. __Mirror Worlds__ &mdash;
 
-- models
-- potholes
+	- models
+	- potholes
 
 10. __Spimes__&mdash;
  
@@ -46,8 +46,8 @@ description: "Social Things Working for You"
 
 12. __Civilizing the Internet of Things__ &mdash;
 
-- social things
-- culture
+	- social things
+	- culture
 
 ## The Pico Model
 

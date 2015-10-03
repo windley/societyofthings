@@ -12,12 +12,12 @@ description: "Social Things Working for You"
 3. __No User-Serviceable Parts Inside__ &mdash;
 
 	- Picos and Wrangler create a model that combines the best of cloud and local compute.
-	- the cloud isn't the PC 
+	- the cloud isn't the PC
+	- from open web to closed apps
 
 ## Design Principles
 
-
-4. __How the Internet Won__ &mdash; 
+4. __How the Internet Won and the Web Lost__ &mdash; 
 
 5. __Sovereign Agents__ &mdash;
 
